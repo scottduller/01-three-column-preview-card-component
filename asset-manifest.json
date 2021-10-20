@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/01-three-column-preview-card-component/static/js/main.6787a992.chunk.js",
+    "main.js.map": "/01-three-column-preview-card-component/static/js/main.6787a992.chunk.js.map",
+    "runtime-main.js": "/01-three-column-preview-card-component/static/js/runtime-main.6ffaf12e.js",
+    "runtime-main.js.map": "/01-three-column-preview-card-component/static/js/runtime-main.6ffaf12e.js.map",
+    "static/js/2.47dc0e92.chunk.js": "/01-three-column-preview-card-component/static/js/2.47dc0e92.chunk.js",
+    "static/js/2.47dc0e92.chunk.js.map": "/01-three-column-preview-card-component/static/js/2.47dc0e92.chunk.js.map",
+    "index.html": "/01-three-column-preview-card-component/index.html",
+    "static/js/2.47dc0e92.chunk.js.LICENSE.txt": "/01-three-column-preview-card-component/static/js/2.47dc0e92.chunk.js.LICENSE.txt",
+    "static/media/icon-luxury.7d6e1aef.svg": "/01-three-column-preview-card-component/static/media/icon-luxury.7d6e1aef.svg",
+    "static/media/icon-sedans.e7945028.svg": "/01-three-column-preview-card-component/static/media/icon-sedans.e7945028.svg",
+    "static/media/icon-suvs.058b664c.svg": "/01-three-column-preview-card-component/static/media/icon-suvs.058b664c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6ffaf12e.js",
+    "static/js/2.47dc0e92.chunk.js",
+    "static/js/main.6787a992.chunk.js"
+  ]
+}
